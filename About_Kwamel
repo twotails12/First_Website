@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title> About Kwamel</title>
+	<style> 
+		body {
+				text-align: center;
+				color: black ;
+				background-image: url("http://www.magic4walls.com/wp-content/uploads/2013/12/art-cat-black-wallpaper-1920x1080.jpg");
+    			background-attachment: fixed;
+    			background-position: center; ; 
+				background-position: left; 
+			}
+		table {
+				text-align:center;
+				list-style-position: inside;
+				width: 100%;
+		}
+		#p1 {
+			width: 500px;
+		}
+
+	</style> 
+</head>
+
+<body> 
+	<h1> About Kwamel</h1>
+
+	<table>
+		<tr>
+			<td>
+				<figure>
+						<img src="https://scontent-iad3-1.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/10483710_822420311116375_3050769739546332701_n.jpg?oh=82d738511353ee4ed08e2a0c3dfc949e&oe=5614725E" hieght= 500 width= 400 border="5"> <figcaption> "A stupid picture I took" </figcaption> </figure> </td> 
+	</table>
+
+	<a href="https://www.facebook.com/kwamel.joselyn"> <img src="https://www.knowland.com/sites/all/themes/Knowland_Refresh/images/fb.gif"  hieght= 100 width= 50</a> <a href="http://twotails12.tumblr.com/"> <img src="http://actionunited.org/wp-content/uploads/2015/05/Tumblr.png" hieght= 100 width= 50> </a>
+
+
+	<center> <p id="p1"> For about four years of my life I was introverted, I spent most of my time on online forums, watching anime, and playing games. From there my dream of wanting to create video games/ animations grew. I'm hoping that going to this camp would help start that dream and help the transition into computer science classes in the fall. I'm looking forward to these two weeks to make friends and have fun as well </p>
+	<center>
+
+			
+
+	<a href="Kwamels_website.html"> <img src="http://static.tumblr.com/i3wvskx/yRflsg5c0/home-icon.png" hieght= 200 width= 100 </a>
+			 
+
+</body>
+</html>
