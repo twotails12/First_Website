@@ -5,17 +5,17 @@
 	<title> About Kwamel</title>
 	<style> 
 		body {
-				text-align: center;
-				color: black ;
-				background-image: url("http://www.magic4walls.com/wp-content/uploads/2013/12/art-cat-black-wallpaper-1920x1080.jpg");
+			text-align: center;
+			color: black ;
+			background-image: url("http://www.magic4walls.com/wp-content/uploads/2013/12/art-cat-black-wallpaper-1920x1080.jpg");
     			background-attachment: fixed;
     			background-position: center; ; 
-				background-position: left; 
-			}
+			background-position: left; 
+		}
 		table {
-				text-align:center;
-				list-style-position: inside;
-				width: 100%;
+			text-align:center;
+			list-style-position: inside;
+			width: 100%;
 		}
 		#p1 {
 			width: 500px;
@@ -26,12 +26,11 @@
 
 <body> 
 	<h1> About Kwamel</h1>
-
 	<table>
 		<tr>
 			<td>
 				<figure>
-						<img src="https://scontent-iad3-1.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/10483710_822420311116375_3050769739546332701_n.jpg?oh=82d738511353ee4ed08e2a0c3dfc949e&oe=5614725E" hieght= 500 width= 400 border="5"> <figcaption> "A stupid picture I took" </figcaption> </figure> </td> 
+					<img src="https://scontent-iad3-1.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/10483710_822420311116375_3050769739546332701_n.jpg?oh=82d738511353ee4ed08e2a0c3dfc949e&oe=5614725E" hieght= 500 width= 400 border="5"> <figcaption> "A stupid picture I took" </figcaption> </figure> </td> 
 	</table>
 
 	<a href="https://www.facebook.com/kwamel.joselyn"> <img src="https://www.knowland.com/sites/all/themes/Knowland_Refresh/images/fb.gif"  hieght= 100 width= 50</a> <a href="http://twotails12.tumblr.com/"> <img src="http://actionunited.org/wp-content/uploads/2015/05/Tumblr.png" hieght= 100 width= 50> </a>
